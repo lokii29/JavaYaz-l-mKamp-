@@ -1,2 +1,2 @@
-# JavaYaz-l-mKamp-
+# JavaYazilimKampi
 Odev3
